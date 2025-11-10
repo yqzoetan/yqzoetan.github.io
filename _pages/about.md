@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm **Yuanqiu (Zoe) Tan**, a Ph.D. student in **Electrical and Computer Engineering at Purdue University**, advised by **Prof. Zhihong Chen**.
+Hi! I'm **Yuanqiu (Zoe) Tan**, a Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by Prof. Zhihong Chen.
 
-My research focuses on **transistor and spintronic devices** that aim to advance **computation beyond silicon and conventional CMOS technologies**. I am particularly interested in how novel materials and device architectures can enable **energy-efficient and probabilistic computing**.
+My research focuses on `ultra-scaled transistors and spintronic devices` that aim to advance computation `beyond silicon and conventional CMOS technologies`. I am particularly interested in how novel materials and device architectures can enable CMOS integration and energy-efficient `probabilistic computing`.
 
-Outside of research, I enjoy **dancing**, taking care of **plants and animals**, and discovering new **coffee and tea** experiences.
+Outside of research, I enjoy dancing, taking care of plants and animals, and discovering new coffee and tea experiences.
 
 Feel free to reach out — I always enjoy connecting with people who share similar interests!
