@@ -409,9 +409,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-insights-towards-high-performance-monolayer-tmd-pfets-sparkles",
           title: 'New insights towards high-performance monolayer TMD pFETs! :sparkles:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-defect-engineering-for-high-performance-ultra-scaled-transistor",
+          title: 'Defect Engineering for High-performance Ultra-scaled Transistor',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
