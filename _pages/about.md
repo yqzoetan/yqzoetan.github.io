@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Powering the Future </a>. tan213@purdue.edu.
+subtitle: <a href='#'>Powering the Future</a>. 
 
 profile:
   align: right
-  image: zoe.jpg
+  image:  image_20251110_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Birck Nanotechnology Center</p>
     <p>1205 Mitch Daniels Blvd</p>
     <p>West Lafayette, IN 47907</p>
+    <p>tan213@purdue.edu<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
