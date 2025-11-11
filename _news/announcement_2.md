@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
@@ -23,7 +23,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
----
+--- -->
 
 Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
