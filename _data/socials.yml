@@ -10,7 +10,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: "tan213@purdue.edu" # your email address
+#email: "tan213@purdue.edu" # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -24,7 +24,7 @@ email: "tan213@purdue.edu" # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
- linkedin_username: "yuanqiu-tan-zoe" # your LinkedIn user name
+# linkedin_username: "yuanqiu-tan-zoe" # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -34,7 +34,7 @@ email: "tan213@purdue.edu" # your email address
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 #rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: "https://scholar.google.com/citations?user=6WL-D-YAAAAJ&hl=en" # your Google Scholar ID
+#scholar_userid: "https://scholar.google.com/citations?user=6WL-D-YAAAAJ&hl=en" # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
