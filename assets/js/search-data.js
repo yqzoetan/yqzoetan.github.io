@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-looking-forward-to-sharing-a-new-scheme-for-probabilistic-computing",
-          title: 'Looking forward to sharing a new scheme for probabilistic computing.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-new-insights-towards-high-performance-monolayer-tmd-pfets-sparkles",
           title: 'New insights towards high-performance monolayer TMD pFETs! :sparkles:',
+          description: "",
+          section: "News",},{id: "news-looking-forward-to-sharing-a-new-scheme-for-probabilistic-computing",
+          title: 'Looking forward to sharing a new scheme for probabilistic computing.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
