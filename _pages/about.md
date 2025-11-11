@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Powering the Future </a>. tan213@purdue.edu.
 
 profile:
   align: right
@@ -33,4 +33,4 @@ My research focuses on `ultra-scaled transistors and spintronic devices` that ai
 
 Outside of research, I enjoy dancing, taking care of plants and animals, and discovering new coffee and tea experiences.
 
-Feel free to reach out — I always enjoy connecting with people who share similar interests!
+Feel free to reach out. I always enjoy connecting with people who share similar interests!
