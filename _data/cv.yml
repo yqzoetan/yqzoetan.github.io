@@ -25,7 +25,7 @@
         
     - title:  Bachelor of Science in Electrical Engineering
       institution: Purdue University, IN, USA
-      year: 2016-2020
+      year: 2016 - 2020
       description:
         - Graduate with Highest Distinction
 
@@ -67,22 +67,22 @@
   type: nested_list
   contents:
     - title: Leadership Experience
-      content:
+      items:
         - <u> President </u> in PUCSSA Dance Club (2024 - 2025)
         - <u> Conference Committee Chairs </u> in Birck Annual Research Conference (2023 - 2025)
         - <u> Team leader of Electric Team </u> in RoboMaster(2019 – 2020)
           - Third Prize of RoboMaster International Regional Competition(2019)
         - <u> Secretary of Event Planning </u> in PUCSSA (2016 –2019)
     - title: Peer Review 
-      content:
+      items:
         -  Nanoscale, Advanced Electronic Material, American Chemical Society, etc. 
     - title: Membership
-      content:
+      items:
         - Phi Kappa Phi
         - IEEE
         - MRS
     - title: Scholarship
-      content:
+      items:
         - RCA Zworykin Scholarship (2019) 
         - Charles W. Brown ECE Scholarship (2019) 
         - Eli Shay Scholarship (2018)
