@@ -8,7 +8,7 @@
     - name: email
       value: tan213@purdue.edu
     - name: LinkedIn
-      value: "https://www.linkedin.com/in/yuanqiu-tan-zoe/"
+      value:  <a href="https://www.linkedin.com/in/yuanqiu-tan-zoe/">yuanqiu-tan-zoe</a>
     - name: Affiliation
       value: Ambassador for Birck Nanotechnology Center, IN, US
 
@@ -19,9 +19,9 @@
       institution: Purdue University, IN, USA
       year: 2020 - present
       description:
-        - Energy-efficient Scaled Spintronics for Probabilistic Computing
-        - High-performance Monolayer TMD devices for 3D Integration beyond Silicon
-        - 2D Diffusion Barrier for Ultra-Scaled Interconnect Technology
+        - Energy-efficient Scaled Spintronics for Probabilistic Computing.
+        - High-performance Monolayer TMD devices for 3D Integration beyond Silicon.
+        - 2D TMD Materials for Ultra-Scaled Interconnect Technology.
         
     - title:  Bachelor of Science in Electrical Engineering
       institution: Purdue University, IN, USA
@@ -35,26 +35,64 @@
     - <u>Fabrication and Characterization:</u> Lithography, Plasma-Enhanced Chemical Vapor Deposition, ALD, RIE, Ion Milling, MPMS, PPMS, AFM, SEM, XRD, Optical Spectrum.
     - <u>Software:</u>  Cadence, HSpice, LTspice, Python, C, MATLAB, Verilog, ABEL, Embedded C, Eagle, Klayout, Solidworks, 3ds Max.
 
-- title: Experience
+- title: Research and Internship
   type: time_table 
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+    - title:  Graduate Research Assistant
+      institution:  Birck Nanotechnology Center, Purdue University
+      year: 2020 - present
+      description: 
+        - title: Energy-efficient Scaled Spintronics for Probabilistic Computing.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Probabilistic-bit based on Stochastic Low-Barrier-Nanomagnets (LBM) with spin transport on 2D diffusion channels (Funded by US NAVY).
+            - Experimental demonstration of an integrated on-chip p-bit core utilizing stochastic Magnetic Tunnel Junctions and 2D-MoS2 FETs (Funded by NSF).
+            
+        - title: High-performance Monolayer TMD devices for 3D Integration beyond Silicon.
+          contents:
+            - High-performance monolayer TMD devices through atomic defect engineering and doping (Funded by Intel and SRC).
+            - Surface analysis of defect and interface study in monolayer 2D TMD materials (Funded by Intel).
+        
+        - title: 2D TMD Materials for Ultra-Scaled Interconnect Technology.
+          contents:
+            - Ultra-thin material searching for liner and diffusion barrier in advanced interconnect (Funded by NSF FuSe2).
+            - BOEL-compatible PECVD growth of nanometer-thin TMD and graphene layers as diffusion barrier and liner barrier (Funded by SRC and EMD).
 
+                    
+    - title: Undergraduate Research Assistant
+      institution: ECE department, Purdue University
+      year: 2018 - 2020
+      description:
+        - SiC MOS characterization and optimization. 
+        - Oscillator-based Ising model with digital circuit design and SPICE simulation.
+        - Analog Circuit Design in Human Body Communication.
+
+- title: Projects
+  type: time_table 
+  contents:
+    - title: Probabilistic computing based on 3T-1sMTJ for reversible logic (Cadence)
+      year: May 2024
+      description:
+        - Explored the development and application of stochastic magnetic tunnel junctions (sMTJs) in probabilistic computing, focusing on invertible logic gates and multipliers.
+        - Developed robust p-bit configurations that capitalize on the inherent stochasticity of low-energy barrier nanomagnets, utilizing a three-transistor, one sMTJ (3T-1sMTJ) design.
+        - Detailed the operational principles of these p-bits, emphasizing their ability to fluctuate between binary states under voltage control and how this capability can be harnessed for implementing complex forward and invertible logic operations and arithmetic functions.
+        
+    - title:   Verilog USB Module on AHB Bus Interface
+      year:  April 2019
+      description:
+        - Created the whole USB with transmitter and receiver in Verilog/System Verilog.
+        - Build communication between AHB Bus and USB module with the data buffer.
+    
+    - title:   Six-degree Free Robotic Arms
+      year:   November 2019
+      description:
+        - Build the Robotic arms with six degrees of freedom to rotate and catch objects in all directions.
+        - Created the user interface with the joint stick and buttons on our own PCB board, while displaying information on the OLED through SPI with STM32. 
+    
+    - title:  Condiments Express
+      year:  August 2019
+      description:
+        - Innovated the full CAD design and PCB design of the whole system, including the x-y table, various motors and sensors, and other essential mechanical and electrical components.
+        - Designed communication between the OLED and consumer by BLE with ESP32 
 
 - title: Open Source Projects
   type: time_table
@@ -63,7 +101,7 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Achievement, and Affiliations
+- title: Achievements and Affiliations
   type: nested_list
   contents:
     - title: Leadership Experience
