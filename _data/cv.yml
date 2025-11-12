@@ -2,28 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yuanqiu (Zoe) Tan
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Purdue University, IN, USA
+      year: 2020 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Energy-efficient Scaled Spintronics for Probabilistic Computing
+        - High-performance Monolayer TMD devices for 3D Integration beyond Silicon
+        - 2D Diffusion Barrier for Ultra-Scaled Interconnect Technology
+        
+    - title:  Bachelor of Science in Electrical Engineering
+      institution: Purdue University, IN, USA
+      year: 2016-2020
       description:
         - Description 1.
         - Description 2.
