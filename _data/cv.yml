@@ -46,12 +46,16 @@
           contents:
             - Probabilistic-bit based on Stochastic Low-Barrier-Nanomagnets (LBM) with spin transport on 2D diffusion channels (Funded by US NAVY).
             - Experimental demonstration of an integrated on-chip p-bit core utilizing stochastic Magnetic Tunnel Junctions and 2D-MoS2 FETs (Funded by NSF).
+    
             
         - title: High-performance Monolayer TMD devices for 3D Integration beyond Silicon.
           contents:
             - High-performance monolayer TMD devices through atomic defect engineering and doping (Funded by Intel and SRC).
             - Surface analysis of defect and interface study in monolayer 2D TMD materials (Funded by Intel).
-        
+          linkitems:
+          - linkname: Project 1
+            link: https://yqzoetan.github.io/projects/1_project/
+            
         - title: 2D TMD Materials for Ultra-Scaled Interconnect Technology.
           contents:
             - Ultra-thin material searching for liner and diffusion barrier in advanced interconnect (Funded by NSF FuSe2).
