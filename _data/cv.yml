@@ -2,9 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Yuanqiu (Zoe) Tan
+      value: Yuanqiu Tan
     - name: Languages
       value: English, Mandarin
+    - name: email
+      value: tan213@purdue.edu
+    - name: LinkedIn
+      "url": "https://www.linkedin.com/in/yuanqiu-tan-zoe/"
+    - name: Location
+      value: Birck Nanotechnology Center, IN, US
 
 - title: Education
   type: time_table
@@ -21,11 +27,16 @@
       institution: Purdue University, IN, USA
       year: 2016-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Graduate with Highest Distinction
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Fabrication and Characterization:</u> Lithography, Plasma-Enhanced Chemical Vapor Deposition, ALD, RIE, Ion Milling, MPMS, PPMS, AFM, SEM, XRD, Optical Spectrum.
+    - <u>Software:</u>  Cadence, HSpice, LTspice, Python, C, MATLAB, Verilog, ABEL, Embedded C, Eagle, Klayout, Solidworks, 3ds Max.
 
 - title: Experience
-  type: time_table
+  type: time_table 
   contents:
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
@@ -64,30 +75,18 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
+- title: Achievement, and Affiliations
+  type: list
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+    - title: Leadership Experience
+      content:
+        - <u> Conference Committee Chairs </u> in Birck Annual Research Conference (2023- 2025)
+        - <u> Team leader of Electric Team </u> in RoboMaster(2019– 2020)
+          - Third Prize of RoboMaster International Regional Competition(2019)
     - year: 2029
       items:
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+
