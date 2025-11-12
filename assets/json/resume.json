@@ -6,9 +6,7 @@
     "email": "tan213@purdue.edu",
     "phone": "(765)337-0010",
     "url": " https://yqzoetan.github.io/ ",
-    "summary": "Ph.D. Candidate in Electrical Engineering with expertise in semiconductor device design, 2D materials
-integration, and advanced nanofabrication. Proven track record in developing scalable diffusion barriers, ultra-scaled
-FETs, and spintronic devices, delivering energy-efficient solutions for next-generation electronics.",
+    "summary": "Ph.D. Candidate in Electrical Engineering with expertise in semiconductor device design, 2D materials integration, and advanced nanofabrication. Proven track record in developing scalable diffusion barriers, ultra-scaled FETs, and spintronic devices, delivering energy-efficient solutions for next-generation electronics.",
     "location": {
       "address": "Birck Nanotechnology Center，1205 Mitch Daniels Blvd",
       "postalCode": "47907",
@@ -24,6 +22,26 @@ FETs, and spintronic devices, delivering energy-efficient solutions for next-gen
       }
     ]
   },
+    "education": [
+    {
+      "institution": "Purdue University, USA",
+      "location": "West Lafayette, USA",
+      "area": "Electrical Engineering",
+      "studyType": "PhD",
+      "startDate": "2016",
+      "endDate": "2020",
+      "courses": ["Circuit Design and MOSCap"]
+    }
+    {
+      "institution": "Purdue University, USA",
+      "location": "West Lafayette, USA",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science in Electrical Engineering- Graduate with Highest Distinction",
+      "startDate": "2016",
+      "endDate": "2020",
+      "courses": ["Circuit Design and MOSCap"]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
