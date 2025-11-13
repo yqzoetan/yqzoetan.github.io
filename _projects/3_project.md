@@ -23,8 +23,8 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Left:  Charge-based p-bits; Right: Spin-based p-bits
-    Image reference: J. Daniel et al. (2024) Nat. Commun.; S. Bunaiyan, S. Datta, and K. Y. Camsari, (Dec. 2023) arXiv: arXiv:2312.01477.
+    Left:  Charge-based p-bits; reference: J. Daniel et al. (2024) Nat. Commun.
+    Right: Spin-based p-bits; reference: S. Bunaiyan, S. Datta, and K. Y. Camsari, (Dec. 2023) arXiv: arXiv:2312.01477.
 </div>
 
 As conventional transistor scaling slows and modern computing demands—especially in AI and machine learning—continue to rise, new hardware paradigms are needed to overcome the limitations of deterministic, charge-based logic. We explore spintronic devices for probabilistic computing as a fundamentally different direction for energy-efficient computation. Unlike traditional bits, spintronic probabilistic bits (p-bits) leverage the intrinsic fluctuations of low-barrier nanomagnets (LBMs) and their coupling through spin transport in nonmagnetic channels, enabling stochastic switching dynamics that naturally support sampling, inference, and optimization.
