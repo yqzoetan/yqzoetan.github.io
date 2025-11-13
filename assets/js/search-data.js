@@ -414,14 +414,14 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-2d-tmd-materials-for-ultra-scaled-interconnect-technology",
+          title: '2D TMD Materials for Ultra-Scaled Interconnect Technology.',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-energy-efficient-scaled-spintronics-for-probabilistic-computing",
+          title: 'Energy-efficient Scaled Spintronics for Probabilistic Computing',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
