@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research centers on the design and experimental realization of advanced electronic and spintronic devices aimed at extending computation and integration beyond silicon-based CMOS technologies. Specifically, I investigate energy-efficient probabilistic computing using spintronic architectures based on stochastic nanomagnets and two-dimensional materials; develop high-performance monolayer transition metal dichalcogenide (TMD) transistors through atomic defect engineering and doping strategies for 3D integration; and explore 2D TMD and graphene materials as ultra-thin diffusion barriers and liners to enable continued interconnect scaling. Collectively, these efforts seek to establish a foundation for next-generation, high-performance, and energy-efficient computing systems.
 nav: true
 nav_order: 3
-display_categories: [FET, Interconnect, Spintronics]
-horizontal: true
+display_categories: [FET,  Spintronics, Interconnect]
+horizontal: falase
 ---
 
 <!-- pages/projects.md -->
@@ -55,7 +55,7 @@ horizontal: true
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
