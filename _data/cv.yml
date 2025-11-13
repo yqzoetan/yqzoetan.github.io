@@ -66,6 +66,13 @@
         - SiC MOS characterization and optimization. 
         - Oscillator-based Ising model with digital circuit design and SPICE simulation.
         - Analog Circuit Design in Human Body Communication.
+        
+     - title: Technology Support and Development Intern
+      institution: Shandong Shenchuan Drive Technology Co., Ltd, China
+      year: 2017 Summer
+      description:
+        - Tested and analyzed the new product with our team to minimize potential problems and provide understandable instructions to customers.
+        - Tracked and communicated the entire process of production between each department to optimize the standard operation principle, minimizing potential problems.
 
 - title: Projects
   type: time_table 
@@ -95,12 +102,6 @@
         - Innovated the full CAD design and PCB design of the whole system, including the x-y table, various motors and sensors, and other essential mechanical and electrical components.
         - Designed communication between the OLED and consumer by BLE with ESP32 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Achievements and Affiliations
   type: nested_list
