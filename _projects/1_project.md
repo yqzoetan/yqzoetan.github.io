@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atomic Defect Engineering for High-performance Ultra-scaled Transistor 
+title: High-performance Monolayer TMD devices for 3D Integration beyond Silicon 
 #description: with background image
 img: assets/img/project1_cover.jpg
 importance: 1
