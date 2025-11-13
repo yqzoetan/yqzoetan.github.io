@@ -5,8 +5,8 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-#display_categories: [FET, Interconnect, Spintronics]
-horizontal: false
+display_categories: [FET, Interconnect, Spintronics]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
