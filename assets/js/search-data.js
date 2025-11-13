@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My research centers on the design and investigation of advanced electronic and spintronic devices aimed at extending computation and integration beyond silicon-based CMOS technologies. Specifically, I investigate energy-efficient probabilistic computing using spintronic architectures based on stochastic nanomagnets and two-dimensional materials; develop high-performance monolayer transition metal dichalcogenide (TMD) transistors through atomic defect engineering and doping strategies for 3D integration; and explore 2D TMD and graphene materials as ultra-thin diffusion barriers and liners to enable continued interconnect scaling.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
