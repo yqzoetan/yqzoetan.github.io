@@ -35,7 +35,7 @@
     - <u>Fabrication and Characterization:</u> Lithography, Plasma-Enhanced Chemical Vapor Deposition, ALD, RIE, Ion Milling, MPMS, PPMS, AFM, SEM, XRD, Optical Spectrum.
     - <u>Software:</u>  Cadence, HSpice, LTspice, Python, C, MATLAB, Verilog, ABEL, Embedded C, Eagle, Klayout, Solidworks, 3ds Max.
 
-- title: Research and Internship
+- title: Research
   type: time_table 
   contents:
     - title:  Graduate Research Assistant
@@ -58,14 +58,6 @@
             - Ultra-thin material searching for liner and diffusion barrier in advanced interconnect (Funded by NSF FuSe2).
             - BOEL-compatible PECVD growth of nanometer-thin TMD and graphene layers as diffusion barrier and liner barrier (Funded by SRC and EMD).
 
-                    
-                
-     - title: Technology Support and Development Intern
-       institution: Shandong Shenchuan Drive Technology Co., China
-       year: 2017 
-       description:
-         - Tested and analyzed the new product with our team to minimize potential problems and provide understandable instructions to customers.
-         - Tracked and communicated the entire process of production between each department to optimize the standard operation principle, minimizing potential problems.
          
     - title: Undergraduate Research Assistant
       institution: ECE department, Purdue University
@@ -74,7 +66,16 @@
         - SiC MOS characterization and optimization. (2019)
         - Oscillator-based Ising model with digital circuit design and SPICE simulation. (2019-2020)
         - Analog Circuit Design in Human Body Communication. (2018)
-
+   
+- title: Work
+  type: time_table
+  contents:
+    - title: Technology Support and Development Intern
+      institution: Shandong Shenchuan Drive Technology Co., China
+      year: Summer 2017 
+      description:
+         - Tested and analyzed the new product with our team to minimize potential problems and provide understandable instructions to customers.
+         - Tracked and communicated the entire process of production between each department to optimize the standard operation principle, minimizing potential problems.
 
 - title: Projects
   type: time_table 
