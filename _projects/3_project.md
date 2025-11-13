@@ -5,7 +5,7 @@ title: Energy-efficient Scaled Spintronics for Probabilistic Computing
 img: assets/img/project3_cover.jpg
 importance: 1
 category: Spintronics
-related_publications: true
+related_publications: false
 ---
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Reference: Chowdhury, S. et al. (2023).IEEE J. Explor. Solid-State Comput. Devices Circuits 9, 1–11
 </div>
 
 <div class="row">
@@ -25,5 +25,15 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Reference: S. Bunaiyan, S. Datta, and K. Y. Camsari, (Dec. 2023) arXiv: arXiv:2312.01477.
 </div>
+
+xxx
+
+
+-J. Daniel, Z. Sun, X. Zhang, Y. Tan, N. Dilley, Z. Chen, J. Appenzeller, “Experimental demonstration of an on-chip p-bit core based on stochastic magnetic tunnel junctions and 2D MoS2 transistors,” Nat. Commun., vol. 15, no. 1, p. 4098, 2024.
+
+-Y. Tan*, R. Tripathi*, J. Appenzeller, Z. Chen, “Nonlocal Detection of Vector Spin Accumulation in Graphene for Probabilistic Computing,” MRS Fall, 2024.
+
+
+
