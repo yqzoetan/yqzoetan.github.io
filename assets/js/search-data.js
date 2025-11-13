@@ -409,8 +409,8 @@ ninja.data = [{
           section: "News",},{id: "news-new-insights-towards-high-performance-monolayer-tmd-pfets-sparkles",
           title: 'New insights towards high-performance monolayer TMD pFETs! :sparkles:',
           description: "",
-          section: "News",},{id: "projects-atomic-defect-engineering-for-high-performance-ultra-scaled-transistor",
-          title: 'Atomic Defect Engineering for High-performance Ultra-scaled Transistor',
+          section: "News",},{id: "projects-high-performance-monolayer-tmd-devices-for-3d-integration-beyond-silicon",
+          title: 'High-performance Monolayer TMD devices for 3D Integration beyond Silicon',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
