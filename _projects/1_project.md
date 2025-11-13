@@ -4,7 +4,7 @@ title: High-performance Monolayer TMD devices for 3D Integration beyond Silicon
 #description: with background image
 img: assets/img/project1_cover.jpg
 importance: 1
-category: FET
+#category: FET
 related_publications: true
 ---
 
