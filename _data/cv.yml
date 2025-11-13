@@ -67,15 +67,6 @@
         - Oscillator-based Ising model with digital circuit design and SPICE simulation. (2019-2020)
         - Analog Circuit Design in Human Body Communication. (2018)
    
-- title: Work
-  type: time_table
-  contents:
-    - title: Technology Support and Development Intern
-      institution: Shandong Shenchuan Drive Technology Co., China
-      year: Summer 2017 
-      description:
-         - Tested and analyzed the new product with our team to minimize potential problems and provide understandable instructions to customers.
-         - Tracked and communicated the entire process of production between each department to optimize the standard operation principle, minimizing potential problems.
 
 - title: Projects
   type: time_table 
@@ -105,7 +96,16 @@
         - Innovated the full CAD design and PCB design of the whole system, including the x-y table, various motors and sensors, and other essential mechanical and electrical components.
         - Designed communication between the OLED and consumer by BLE with ESP32 
 
-
+- title: Work
+  type: time_table
+  contents:
+    - title: Technology Support and Development Intern
+      institution: Shandong Shenchuan Drive Technology Co., China
+      year: Summer 2017 
+      description:
+         - Tested and analyzed the new product with our team to minimize potential problems and provide understandable instructions to customers.
+         - Tracked and communicated the entire process of production between each department to optimize the standard operation principle, minimizing potential problems.
+         
 - title: Achievements and Affiliations
   type: nested_list
   contents:
