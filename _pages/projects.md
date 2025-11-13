@@ -6,7 +6,7 @@ description: My research centers on the design and experimental realization of a
 nav: true
 nav_order: 3
 display_categories: [FET,  Spintronics, Interconnect]
-horizontal: falase
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
