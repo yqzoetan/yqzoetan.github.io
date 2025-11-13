@@ -12,9 +12,3 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-  </div>
-</div>
-```
-
-{% endraw %}
