@@ -5,7 +5,7 @@ title: 2D TMD Materials for Ultra-Scaled Interconnect Technology.
 img: assets/img/project1_cover.jpg
 importance: 1
 category: Interconnect
-related_publications: true
+related_publications: false
 ---
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
