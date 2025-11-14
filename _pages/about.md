@@ -6,13 +6,12 @@ subtitle: <a href='#'>Powering the Future</a>.
 
 profile:
   align: right
-  image:  image_20251110_2.jpg
+  image:  zoe_2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Birck Nanotechnology Center</p>
     <p>1205 Mitch Daniels Blvd</p>
     <p>West Lafayette, IN 47907</p>
-    <p>tan213@purdue.edu<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,13 +28,9 @@ announcements:
 ---
 
 
-
-
-
-
 Hi! I'm **Yuanqiu (Zoe) Tan**, a Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by Prof. Zhihong Chen.
 
-My research focuses on `ultra-scaled transistors and spintronic devices` that aim to advance computation `beyond silicon and conventional CMOS technologies`. I am particularly interested in how novel materials and device architectures can enable CMOS integration and energy-efficient `probabilistic computing`.
+My research focuses on `ultra-scaled transistors, interconnect,  and spintronic devices` that aim to advance computation `beyond silicon and conventional CMOS technologies`. I am particularly interested in how novel materials and device architectures can enable CMOS integration and energy-efficient `probabilistic computing`.
 
 Outside of research, I enjoy dancing, taking care of plants and animals, and discovering new coffee and tea experiences.
 
