@@ -40,7 +40,7 @@ Through a combination of device physics, spin transport engineering, and system-
 This research is supported by the U.S. Navy and the National Science Foundation (NSF).
 
 
-- J. Daniel, Z. Sun, X. Zhang, Y. Tan, N. Dilley, Z. Chen, J. Appenzeller, “Experimental demonstration of an on-chip p-bit core based on stochastic magnetic tunnel junctions and 2D MoS2 transistors,” Nat. Commun., vol. 15, no. 1, p. 4098, 2024.
+- J. Daniel, Z. Sun, X. Zhang, Y. Tan, N. Dilley, Z. Chen, J. Appenzeller, “Experimental demonstration of an on-chip p-bit core based on stochastic magnetic tunnel junctions and 2D MoS₂ transistors,” Nat. Commun., vol. 15, no. 1, p. 4098, 2024.
 
 -Y. Tan*, R. Tripathi*, J. Appenzeller, Z. Chen, “Nonlocal Detection of Vector Spin Accumulation in Graphene for Probabilistic Computing,” MRS Fall, 2024.
 
