@@ -403,8 +403,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-looking-forward-to-sharing-a-new-scheme-for-probabilistic-computing",
-          title: 'Looking forward to sharing a new scheme for probabilistic computing.',
+            },},{id: "news-looking-forward-to-sharing-our-new-scheme-for-probabilistic-computing-in-mrs",
+          title: 'Looking forward to sharing our new scheme for probabilistic computing in MRS!',
           description: "",
           section: "News",},{id: "news-new-insights-towards-high-performance-monolayer-tmd-pfets-sparkles",
           title: 'New insights towards high-performance monolayer TMD pFETs! :sparkles:',
