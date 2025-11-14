@@ -46,7 +46,7 @@ This work is supported by Intel and the Semiconductor Research Corporation (SRC)
 
 - H. Lan, Y. Tan, S. Yang, X. Liu, Z. Shang, J. Appenzeller, Z. Chen, “Improved Hysteresis of High-Performance p-Type WSe₂ Transistors with Native Oxide WOx Interfacial Layer,” Nano Lett., vol. 25, no. 14, pp. 5616–5623, 2025
 
--H. Lan, C. Lin, L. Liu, J. Cai, Z. Sun, P. Wu, Y. Tan, S. Yang, T. Hou, J. Appenzeller, Z. Chen, “Uncovering the doping mechanism of nitric oxide in high-performance P-type WSe2 transistors,” Nat. Commun., vol. 16, no. 1, p. 4160, 2025.
+- H. Lan, C. Lin, L. Liu, J. Cai, Z. Sun, P. Wu, Y. Tan, S. Yang, T. Hou, J. Appenzeller, Z. Chen, “Uncovering the doping mechanism of nitric oxide in high-performance P-type WSe2 transistors,” Nat. Commun., vol. 16, no. 1, p. 4160, 2025.
 
 
 
