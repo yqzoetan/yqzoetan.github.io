@@ -1,4 +1,4 @@
----
+ ---
 layout: about
 title: about
 permalink: /
@@ -7,7 +7,7 @@ subtitle: <a href='#'>Powering the Future</a>.
 profile:
   align: right
   image:  zoe_2.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Birck Nanotechnology Center</p>
     <p>1205 Mitch Daniels Blvd</p>
