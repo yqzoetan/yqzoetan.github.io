@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Looking forward to sharing a new scheme for probabilistic computing.
+Looking forward to sharing our new scheme for probabilistic computing in MRS!
