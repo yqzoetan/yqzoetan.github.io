@@ -22,6 +22,6 @@ Our research focuses on leveraging two-dimensional (2D) TMD materials as next-ge
 
 This research is supported by the Semiconductor Research Corporation (SRC) and the National Science Foundation (NSF).
 
-- T. Ngo, Y. Tan, A. Zacatzi, D. Lee, A. Wankis, N. Vu, R. Kanjolia, M. Moinpour, Z.Chen. ”300mm Wafer-Scale ALD-Grown MoS2 for Cu Diffusion Barrier”. In 2024 IEEE International Interconnect Technology Conference (IITC), San Jose, California.
+- T. Ngo, Y. Tan, A. Zacatzi, D. Lee, A. Wankis, N. Vu, R. Kanjolia, M. Moinpour, Z.Chen. ”300mm Wafer-Scale ALD-Grown MoS₂ for Cu Diffusion Barrier”. In 2024 IEEE International Interconnect Technology Conference (IITC), San Jose, California.
   
-- Y. Tan, and Z. Chen. ”BEOL Compatible TaSx Barrier/Liner Growth and Interaction with Metal Thin Films”. In 2021 Semiconductor Research Corporation (SRC), virtual.
+- Y. Tan, and Z. Chen. ”BEOL Compatible TaSₓ Barrier/Liner Growth and Interaction with Metal Thin Films”. In 2021 Semiconductor Research Corporation (SRC), virtual.
